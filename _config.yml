@@ -1,8 +1,10 @@
 title: ICS Study Hub
-description: A template for quickly starting Meteor application development
+description: Organization that works on Study Buddy website
 google_analytics:
 show_downloads: false
 theme: jekyll-theme-cayman
-
+github:
+  is_project_page: true
+  repository_url: https://ics-study-hub.github.io/
 gems:
   - jekyll-mentions
