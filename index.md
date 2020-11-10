@@ -1,6 +1,8 @@
 ## Table of contents
 * [Testing](#testing)
 * [Overview](#overview)
+* [Landing Page] (Work in Progress)
+
 
 ## TESTING
 This site is currently a work-in-progress and will be updated the further along we go in the project.
