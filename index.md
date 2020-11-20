@@ -14,6 +14,9 @@ COVID-19 has hit not just America, but the entire world very hard. From the work
 Landing Page:
 ![landing page mockup](images/mockups/landing-page.png)
 
+Work-in-Progress
+![landing page work-in-progress](images/work-in-progress/ICS-Study-Hub.png)
+
 User Profile Page:
 ![user profile page mockup](images/mockups/user-profile-page.png)
 
