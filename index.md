@@ -15,6 +15,7 @@ As you may have guessed, this page is a work in progress. Every week and a half,
 
 ## Our next milestone...
 Attached is a link to what we plan to accomplish in our next milestone:
+[Milestone One](https://github.com/ics-study-hub/ics-study-hub/projects/1)
 [Milestone Two](https://github.com/ics-study-hub/ics-study-hub/projects/2)
 
 ## PAGES:
