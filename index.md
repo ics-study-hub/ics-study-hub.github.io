@@ -30,7 +30,7 @@ Landing Page:
 ![landing page work-in-progress](images/work-in-progress/ICS-Study-Hub.png)
 
 [Create Study Session](http://162.243.169.228/#/create)
-![create study session](images/work-in-progress.ICS-Create-Session.png)
+![create study session](images/work-in-progress/ICS-Create-Session.png)
 
 User Profile Page:
 ![user profile page mockup](images/mockups/user-profile-page.png)
