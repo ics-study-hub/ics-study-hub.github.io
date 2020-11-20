@@ -23,20 +23,19 @@ Attached is a link to what we plan to accomplish in our next milestone:
 [Milestone Two](https://github.com/ics-study-hub/ics-study-hub/projects/2)
 
 ## PAGES:
-Landing Page:
-![landing page mockup](images/mockups/landing-page.png)
+[Landing Page:](http://159.89.134.191/#/)
+![landing page deployed](images/M1/landing-page.png)
 
-[Work-in-Progress](http://162.243.169.228/#/create)
-![landing page work-in-progress](images/work-in-progress/ICS-Study-Hub.png)
+[Calendar Page:](http://159.89.134.191/#/usercalendar)
+![calendar page mockup](images/M1/calendar-page.png)
 
-[Create Study Session](http://162.243.169.228/#/create)
-![create study session](images/work-in-progress/ICS-Create-Session.png)
+[Create Study Session](http://159.89.134.191/#/create)
+![create study session](images/M1/create-session.png)
 
-User Profile Page:
-![user profile page mockup](images/mockups/user-profile-page.png)
+[Game Mechanics Page:](http://159.89.134.191/#/leaderboard)
+![game mechanics page mockup](images/M1/leaderboard.png)
 
-Calender Page:
-![calendar page mockup](images/mockups/calendar-page.png)
+[List Sessions Page:](http://159.89.134.191/#/list)
+![list sessions mockup](images/M1/list-sessions.png)
 
-Game Mechanics Page:
-![game mechanics page mockup](images/mockups/game-mechanics-page.png)
+
