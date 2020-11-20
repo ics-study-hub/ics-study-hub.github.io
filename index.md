@@ -26,7 +26,7 @@ Attached is a link to what we plan to accomplish in our next milestone:
 Landing Page:
 ![landing page mockup](images/mockups/landing-page.png)
 
-![Work-in-Progress](http://206.189.215.138/#/)
+[Work-in-Progress](http://206.189.215.138/#/)
 ![landing page work-in-progress](images/work-in-progress/ICS-Study-Hub.png)
 
 [Create Study Session](http://162.243.169.228/#/create)
