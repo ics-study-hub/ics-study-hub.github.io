@@ -27,7 +27,7 @@ Attached is a link to what we plan to accomplish in our next milestone:
 ![landing page deployed](images/M1/landing-page.png)
 
 [Calendar Page:](http://159.89.134.191/#/usercalendar)
-![calendar page mockup](images/M1/calendar-page.png)
+![calendar page mockup](images/M1/user-calendar.png)
 
 [Create Study Session](http://159.89.134.191/#/create)
 ![create study session](images/M1/create-session.png)
