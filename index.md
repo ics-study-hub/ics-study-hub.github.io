@@ -1,6 +1,6 @@
 ## Table of contents
 * [Overview](#overview)
-* [User Guide](#pages)
+* [User Guide](#user guide)
 * [Team](#team)
 
 ## OVERVIEW
