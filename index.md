@@ -64,7 +64,87 @@ $ meteor npm install
  $ meteor npm run start
  ```
 
- The first time you run the app, it will create some default users and data.
+ The first time you run the app, it will create some default users and data. Here is the output:
+
+
+```
+meteor npm run start
+
+> meteor-application-template-react@ start C:\Users\Len Nguyen\Documents\GitHub\ics-study-hub\app
+> meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
+
+[[[[[ C:\Users\Len Nguyen\Documents\GitHub\ics-study-hub\app ]]]]]
+
+=> Started proxy.
+=> Started MongoDB.
+W20201130-22:47:36.140(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
+W20201130-22:47:36.187(-10)? (STDERR) While this implementation will work correctly, it is known to be
+W20201130-22:47:36.187(-10)? (STDERR) approximately three times slower than the native implementation.
+W20201130-22:47:36.188(-10)? (STDERR) In order to use the native implementation instead, run
+W20201130-22:47:36.188(-10)? (STDERR)
+W20201130-22:47:36.188(-10)? (STDERR)   meteor npm install --save bcrypt
+W20201130-22:47:36.188(-10)? (STDERR)
+W20201130-22:47:36.189(-10)? (STDERR) in the root directory of your application.
+I20201130-22:47:37.554(-10)? Creating the default user(s)
+I20201130-22:47:37.554(-10)?   Creating user admin@foo.com.
+I20201130-22:47:37.772(-10)?   Creating user john@foo.com.
+I20201130-22:47:37.965(-10)? Creating default data.
+I20201130-22:47:37.965(-10)?   Adding: Johnny Johnson (john@foo.com)
+I20201130-22:47:37.988(-10)?   Adding: Amanda McPhearson (john@foo.com)
+I20201130-22:47:37.990(-10)? Creating default leaderboard.
+I20201130-22:47:37.990(-10)?   Adding: Philip Johnson (john@foo.com)
+I20201130-22:47:38.010(-10)?   Adding: Henri Casanova (john@foo.com)
+I20201130-22:47:38.095(-10)? Monti APM: completed instrumenting the app
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+
+```
+
+### Walkthrough
+
+The following sections describe the major features of this template.
+
+### Directory structure
+
+The top-level directory structure is:
+
+```
+app/        # holds the Meteor application sources
+config/     # holds configuration files, such as settings.development.json
+doc/        # holds developer documentation, user guides, etc.
+.gitignore  # don't commit IntelliJ project files, node_modules, and settings.production.json
+```
+
+This structure separates documentation files (such as screenshots) and configuration files (such as the settings files) from the actual Meteor application.
+
+The app/ directory has this structure:
+
+```
+client/
+  main.html      # The boilerplate HTML with a "root" div to be manipulated by React.
+  main.js        # import startup files.
+
+imports/
+  api/           # Define collections
+    stuff/       # The Stuffs collection definition
+  startup/       # Define code to run when system starts up (client-only, server-only, both)
+    client/
+    server/
+  ui/
+    layouts/     # Contains top-level layout (<App> component).
+    pages/       # Contains components for each page.
+    components/  # Contains page elements, some of which could appear on multiple pages.
+
+node_modules/    # managed by npm
+
+public/          # static assets (like images) can go here.
+
+server/
+   main.js       # import the server-side js files.
+```
+
+###
 
 ## TEAM
 Len Nguyen, Shengtong Jin, Matthew Kirts, Justin Aquino
