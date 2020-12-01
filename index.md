@@ -41,6 +41,30 @@ Attached is a link to what we plan to accomplish in our next milestone:
 ![game mechanics page mockup](images/M2/leaderboardsession.PNG)
 
 ## Developer Guide
+This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
+
+#Installation
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, go to [the ICS Study Hub page](https://ics-study-hub.github.io), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
+
+Third, go to your newly created repository, and click the "Clone or download" button to download your new GitHub repo to your local file system.  Using [GitHub Desktop](https://desktop.github.com/) is a great choice if you use MacOS or Windows.
+
+Fourth, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+
+```
+$ meteor npm install
+```
+
+#Running the system
+
+ Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/app/package.json):
+
+ ```
+ $ meteor npm run start
+ ```
+
+ The first time you run the app, it will create some default users and data.
 
 ## TEAM
 Len Nguyen, Shengtong Jin, Matthew Kirts, Justin Aquino
