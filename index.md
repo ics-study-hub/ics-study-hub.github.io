@@ -2,6 +2,7 @@
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Team](#team)
 
 ## OVERVIEW
