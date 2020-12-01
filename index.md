@@ -6,8 +6,8 @@
 ## OVERVIEW
 COVID-19 has hit not just America, but the entire world very hard. From the workplace to home, people are struggling and education is now more important than ever. We are hoping that our template for the ICS Study Hub will provide the support needed for ICS students and hopefully provide a template for study websites not just all over the country, but as well as across the globe.
 
-## A Work in Progress
-As you may have guessed, this page is a work in progress. Every week and a half, there will be an update regarding the progress of each page, including but not limited to images of pages, notes regarding functionality, possible problems, and more.
+## Deployment
+A live deployment of ICS Study Hub is available at [https://icsstudyhub.xyz/](https://icsstudyhub.xyz/)
 
 ## Our next milestone...
 Attached is a link to what we plan to accomplish in our next milestone:
