@@ -1,7 +1,7 @@
 ## Table of contents
-* [Team](#testing)
 * [Overview](#overview)
-* [Pages](#pages)
+* [User Guide](#pages)
+* [Team](#team)
 
 ## OVERVIEW
 COVID-19 has hit not just America, but the entire world very hard. From the workplace to home, people are struggling and education is now more important than ever. We are hoping that our template for the ICS Study Hub will provide the support needed for ICS students and hopefully provide a template for study websites not just all over the country, but as well as across the globe.
@@ -20,8 +20,9 @@ Attached is a link to what we plan to accomplish in our next milestone:
 
 [Milestone Three](https://github.com/ics-study-hub/ics-study-hub/projects/3)
 
-## PAGES:
+## User Guide:
 [Landing Page:](http://159.89.134.191/#/)
+The landing page is presented to users when they visit the top-level URL to the site.
 ![landing page deployed](images/M2/homepage.PNG)
 
 [Calendar Page:](http://159.89.134.191/#/usercalendar)
