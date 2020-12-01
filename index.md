@@ -1,6 +1,7 @@
 ## Table of contents
 * [Overview](#overview)
-* [User Guide](#user guide)
+* [Deployment](#deployment)
+* [User Guide](#user-guide)
 * [Team](#team)
 
 ## OVERVIEW
@@ -20,21 +21,25 @@ Attached is a link to what we plan to accomplish in our next milestone:
 
 [Milestone Three](https://github.com/ics-study-hub/ics-study-hub/projects/3)
 
+## Deployment
+
+A live deployment of ICS Study Hub is available at [https://icsstudyhub.xyz](https://icsstudyhub.xyz).
+
 ## User Guide:
-[Landing Page:](http://159.89.134.191/#/)
+[Landing Page:](https://icsstudyhub.xyz/#/)
 The landing page is presented to users when they visit the top-level URL to the site.
 ![landing page deployed](images/M2/homepage.PNG)
 
-[Calendar Page:](http://159.89.134.191/#/usercalendar)
+[Calendar Page:](https://icsstudyhub.xyz/#/usercalendar)
 ![calendar page mockup](images/M2/calendar.PNG)
 
-[Create Study Session](http://159.89.134.191/#/create)
+[Create Study Session](https://icsstudyhub.xyz/#/create)
 ![create study session](images/M2/create.PNG)
 
-[List Sessions Page:](http://159.89.134.191/#/list)
+[List Sessions Page:](https://icsstudyhub.xyz/#/list)
 ![list sessions mockup](images/M2/session.PNG)
 
-[Game Mechanics Page:](http://159.89.134.191/#/leaderboard)
+[Game Mechanics Page:](https://icsstudyhub.xyz/#/leaderboard)
 ![game mechanics page mockup](images/M2/leaderboard.PNG)
 
 [Admin List Session:]
@@ -57,6 +62,12 @@ Fourth, cd into the app/ directory of your local copy of the repo, and install t
 
 ```
 $ meteor npm install
+```
+
+Finally, an additional library is required due to the interactive calendar we have installed in our site. Install this library with:
+
+```
+$ npm install --save @fullcalendar/react @fullcalendar/daygrid
 ```
 
 ### Running the system
