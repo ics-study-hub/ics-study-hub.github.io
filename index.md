@@ -18,6 +18,8 @@ Attached is a link to what we plan to accomplish in our next milestone:
 
 [Milestone Two](https://github.com/ics-study-hub/ics-study-hub/projects/2)
 
+[Milestone Three](https://github.com/ics-study-hub/ics-study-hub/projects/3)
+
 ## PAGES:
 [Landing Page:](http://159.89.134.191/#/)
 ![landing page deployed](images/M2/homepage.PNG)
@@ -144,7 +146,6 @@ server/
    main.js       # import the server-side js files.
 ```
 
-###
 
 ## TEAM
 Len Nguyen, Shengtong Jin, Matthew Kirts, Justin Aquino
