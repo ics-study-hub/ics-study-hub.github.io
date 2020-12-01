@@ -35,7 +35,7 @@ Attached is a link to what we plan to accomplish in our next milestone:
 ![game mechanics page mockup](images/M2/leaderboard.PNG)
 
 [Admin List Session:]
-![game mechanics page mockup](images/M2/adminsessoin.PNG)
+![game mechanics page mockup](images/M2/sessionadmin.PNG)
 
 [Admin Leaderboard:]
 ![game mechanics page mockup](images/M2/leaderboardsession.PNG)
