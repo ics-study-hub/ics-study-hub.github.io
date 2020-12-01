@@ -9,7 +9,8 @@
 COVID-19 has hit not just America, but the entire world very hard. From the workplace to home, people are struggling and education is now more important than ever. We are hoping that our template for the ICS Study Hub will provide the support needed for ICS students and hopefully provide a template for study websites not just all over the country, but as well as across the globe.
 
 ## Deployment
-A live deployment of ICS Study Hub is available at [https://icsstudyhub.xyz/](https://icsstudyhub.xyz/)
+
+A live deployment of ICS Study Hub is available at [https://icsstudyhub.xyz](https://icsstudyhub.xyz).
 
 ## Our next milestone...
 Attached is a link to what we plan to accomplish in our next milestone:
@@ -22,9 +23,6 @@ Attached is a link to what we plan to accomplish in our next milestone:
 
 [Milestone Three](https://github.com/ics-study-hub/ics-study-hub/projects/3)
 
-## Deployment
-
-A live deployment of ICS Study Hub is available at [https://icsstudyhub.xyz](https://icsstudyhub.xyz).
 
 ## User Guide:
 [Landing Page:](https://icsstudyhub.xyz/#/)
