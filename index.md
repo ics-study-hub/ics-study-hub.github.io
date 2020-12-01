@@ -3,10 +3,6 @@
 * [Overview](#overview)
 * [Pages](#pages)
 
-
-## TEAM
-Len Nguyen, Shengtong Jin, Matthew Kirts, Justin Aquino
-
 ## OVERVIEW
 COVID-19 has hit not just America, but the entire world very hard. From the workplace to home, people are struggling and education is now more important than ever. We are hoping that our template for the ICS Study Hub will provide the support needed for ICS students and hopefully provide a template for study websites not just all over the country, but as well as across the globe.
 
@@ -24,18 +20,27 @@ Attached is a link to what we plan to accomplish in our next milestone:
 
 ## PAGES:
 [Landing Page:](http://159.89.134.191/#/)
-![landing page deployed](images/M1/landing-page.png)
+![landing page deployed](images/M2/homepage.PNG)
 
 [Calendar Page:](http://159.89.134.191/#/usercalendar)
-![calendar page mockup](images/M1/user-calendar.png)
+![calendar page mockup](images/M2/calendar.PNG)
 
 [Create Study Session](http://159.89.134.191/#/create)
-![create study session](images/M1/create-session.png)
-
-[Game Mechanics Page:](http://159.89.134.191/#/leaderboard)
-![game mechanics page mockup](images/M1/leaderboard.png)
+![create study session](images/M2/create.PNG)
 
 [List Sessions Page:](http://159.89.134.191/#/list)
-![list sessions mockup](images/M1/list-sessions.png)
+![list sessions mockup](images/M2/session.PNG)
 
+[Game Mechanics Page:](http://159.89.134.191/#/leaderboard)
+![game mechanics page mockup](images/M2/leaderboard.PNG)
 
+[Admin List Session:]
+![game mechanics page mockup](images/M2/adminsessoin.PNG)
+
+[Admin Leaderboard:]
+![game mechanics page mockup](images/M2/leaderboardsession.PNG)
+
+## Developer Guide
+
+## TEAM
+Len Nguyen, Shengtong Jin, Matthew Kirts, Justin Aquino
