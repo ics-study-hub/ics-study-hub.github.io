@@ -34,7 +34,7 @@ The landing page is presented to users when they visit the top-level URL to the 
 Clicking on the Current Sessions tab will bring the user to a page with a calendar where users can see all the current sessions that are available and create new ones within the page.
 ![calendar page](images/M2/Calendar.PNG)
 
-[Create Study Session](http://icsstudyhub.xyz/#/create)
+### [Create Study Session:](http://icsstudyhub.xyz/#/create)
 In the Create tab the user will be brought to a page where they can fill out a form and specify the details of their new study sessions to everyone.
 ![create study session](images/M2/create.PNG)
 
