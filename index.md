@@ -25,26 +25,33 @@ Attached is a link to what we plan to accomplish in our next milestone:
 
 
 ## User Guide:
+
 [Landing Page:](https://icsstudyhub.xyz/#/)
 The landing page is presented to users when they visit the top-level URL to the site.
 ![landing page deployed](images/M2/homepage.PNG)
 
 [Calendar Page:](https://icsstudyhub.xyz/#/usercalendar)
-![calendar page mockup](images/M2/calendar.PNG)
+Clicking on the Current Sessions tab will bring the user to a page with a calendar where users can see all the current sessions that are available and create new ones within the page.
+![calendar page mockup](images/M2/Calendar.PNG)
 
 [Create Study Session](https://icsstudyhub.xyz/#/create)
+In the Create tab the user will be brought to a page where they can fill out a form and specify the details of their new study sessions to everyone.
 ![create study session](images/M2/create.PNG)
 
 [List Sessions Page:](https://icsstudyhub.xyz/#/list)
+The List Available Sessions shows all the current study sessions that are available for students to join!
 ![list sessions mockup](images/M2/session.PNG)
 
 [Game Mechanics Page:](https://icsstudyhub.xyz/#/leaderboard)
+Having a Leaderboard keeps the students motivated to study and in return they can earn rewards if they study hard enough.
 ![game mechanics page mockup](images/M2/leaderboard.PNG)
 
 [Admin List Session:]
+The Admin List Session is the same as what the user will see except they have the ability to remove posts after the time has passed or the user wants the session to be deleted.
 ![game mechanics page mockup](images/M2/sessionadmin.PNG)
 
 [Admin Leaderboard:]
+The Leaderboard also the same where an admin can see the current leaderboard but if there was a student not following the rules then the admin is able to remove them from the leaderboard.
 ![game mechanics page mockup](images/M2/leaderboardsession.PNG)
 
 ## Developer Guide
