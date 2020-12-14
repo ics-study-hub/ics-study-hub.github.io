@@ -54,6 +54,10 @@ The Admin List Session is the same as what the user will see except they have th
 The Leaderboard also the same where an admin can see the current leaderboard but if there was a student not following the rules then the admin is able to remove them from the leaderboard.
 ![game mechanics page mockup](images/M2/leaderboardsession.PNG)
 
+## Community Feedback
+
+Here what others think of our application and the benefits that comes with it!
+
 ## Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
 
