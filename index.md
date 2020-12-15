@@ -168,8 +168,12 @@ public/          # static assets (like images) can go here.
 
 server/
    main.js       # import the server-side js files.
+
+tests/			## Implementation of testcafe to test code
 ```
 
+## Community Feedback
+Here what the community currently thinks of our ICS Study Hub!
 
 ## TEAM
 Len Nguyen, Shengtong Jin, Matthew Kirts, Justin Aquino
