@@ -178,6 +178,13 @@ tests/			## Implementation of testcafe to test code
 
 We would like to hear from you! Please take a few minutes to fill out this [ICS Study Hub Feeback Form](https://docs.google.com/forms/d/e/1FAIpQLSfQ7W4Z6Y9VuxuLD2P0JAtu_41zqQ6hBCeEqB-6jAdovnL34Q/viewform?usp=sf_link). Your feedback and suggestion are very important for us to understand our site and improve the site better!
 
+Feedback typically consisted of the following:
+
+ - Improvements on the User Profile page
+ - Extra accessibility
+ - Having a unique study page for people to do and host group work
+ - Ability to edit information on the profile
+
 ### General Summary
 
 After we collect some feedback and comment from the user and the form, overall, many of them enjoy using the application, such as how we build the calendar page so time it’s more visual for each study session. Here are a few general things we need to improve to make our site better. First, our UI can be improved so it can look much better, such as change the style of the bottom, the style of the menu bar, and the from for creating session can be much more detailed. Also, we need to add the function that the user can be able to edit and add a profile picture for their account.
