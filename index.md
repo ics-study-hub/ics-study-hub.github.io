@@ -3,6 +3,7 @@
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
+* [Community FeedBack](#community-feedback)
 * [Team](#team)
 
 ![ci-badge](https://github.com/ics-study-hub/ics-study-hub/workflows/ics-study-hub/badge.svg)
