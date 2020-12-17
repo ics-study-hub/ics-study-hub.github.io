@@ -176,6 +176,7 @@ We would like to hear from you! Please take a few minutes to fill out this [ICS 
 
 ### General Summary
 
+After we collect some feedback and comment from the user and the form, overall, many of them enjoy using the application, such as how we build the calendar page so time it’s more visual for each study session. Here are a few general things we need to improve to make our site better. First, our UI can be improved so it can look much better, such as change the style of the bottom, the style of the menu bar, and the from for creating session can be much more detailed. Also, we need to add the function that the user can be able to edit and add a profile picture for their account.
 
 ## TEAM
 Len Nguyen, Shengtong Jin, Matthew Kirts, Justin Aquino
