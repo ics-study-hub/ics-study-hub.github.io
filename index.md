@@ -13,7 +13,7 @@ COVID-19 has hit not just America, but the entire world very hard. From the work
 
 ## Deployment
 
-A live deployment of ICS Study Hub is available at [http://icsstudyhub.xyz](http://icsstudyhub.xyz).
+A live deployment of ICS Study Hub is available at [https://icsstudyhub.xyz](https://icsstudyhub.xyz).
 
 ## Our next milestone...
 Attached is a link to what we plan to accomplish in our next milestone:
