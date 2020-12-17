@@ -170,7 +170,11 @@ tests/			## Implementation of testcafe to test code
 ```
 
 ## Community Feedback
-Here what the community currently thinks of our ICS Study Hub!
+
+We would like to hear from you! Please take a few minutes to fill out this [ICS Study Hub Feeback Form](https://docs.google.com/forms/d/e/1FAIpQLSfQ7W4Z6Y9VuxuLD2P0JAtu_41zqQ6hBCeEqB-6jAdovnL34Q/viewform?usp=sf_link). Your feedback and suggestion are very important for us to understand our site and improve the site better!
+
+### General Summary
+
 
 ## TEAM
 Len Nguyen, Shengtong Jin, Matthew Kirts, Justin Aquino
